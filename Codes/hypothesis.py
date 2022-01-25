@@ -1,4 +1,3 @@
-# author: Handong Chen
 
 import json
 
