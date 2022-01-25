@@ -1,4 +1,4 @@
-This is a cognitive used car price evaluation system.
+This is a cognitive used car price evaluation system made by cognitive computing concepts and data mining techniques.
 
 ## Input Data     
   It can accept natural language input and normal car technical terms input.
