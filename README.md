@@ -18,6 +18,5 @@ This is a cognitive used car price evaluation system made by cognitive computing
   The final exist hypothesis will be the final output.
 
 
-
-
+## Details
   More details are included in "Report.pdf".
