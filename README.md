@@ -1,3 +1,4 @@
+## Introduction  
 This is a cognitive used car price evaluation system made by cognitive computing concepts and data mining techniques.
 
 ## Input Data     
@@ -15,3 +16,6 @@ This is a cognitive used car price evaluation system made by cognitive computing
  
 ## Output
   The final exist hypothesis will be the final output.
+
+### Input Data
+  More details are included in "Report.pdf".
